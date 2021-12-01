@@ -1,6 +1,3 @@
-# BankSistem
-This is a BankSistem make a back-end JS language, in Alura :)! My first project of JS object guidance...
-
 # Bank 💰
 
 **This project is part of the object-oriented deepening of the JS language, and is a prerequisite for starting training in frameworks and many of the other parts that make up the world of front-end and back-end programming.**
